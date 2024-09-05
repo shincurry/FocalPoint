@@ -32,6 +32,11 @@ body:not(.is-head-stacked) .gh-head {
     height: 88px;
 }
 
+
+body:not(.is-head-stacked).is-head-transparent .gh-head-inner {
+    border-bottom-color: color-mix(in srgb, var(--color-light-gray), transparent 80%);
+}
+
 body:not(.is-head-stacked) .gh-head-inner {
     border-bottom: 1px solid var(--color-light-gray);
 }
