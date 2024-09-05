@@ -1,13 +1,8 @@
-# Headline
+# FocalPoint
 
-Headline is a [Ghost](https://github.com/TryGhost/Ghost) theme built from the ground up for local news. While it can be used for any purpose, the theme takes a thoughtful approach to displaying large amounts of content across various areas of coverage. Headline adapts to your content by showcasing your most written about topics or by giving you the control to decide which topics are front and center.
+FocalPoint is based on [Headline](https://github.com/TryGhost/Headline).
 
-**Demo: https://headline.ghost.io**
-
-# Instructions
-
-1. [Download this theme](https://github.com/TryGhost/Headline/archive/main.zip)
-2. Log into Ghost, and go to the `Design` settings area to upload the zip file
+FocalPoint is a [Ghost](https://github.com/TryGhost/Ghost) theme built from the ground up for local news. While it can be used for any purpose, the theme takes a thoughtful approach to displaying large amounts of content across various areas of coverage. FocalPoint adapts to your content by showcasing your most written about topics or by giving you the control to decide which topics are front and center.
 
 # Development
 
@@ -23,7 +18,7 @@ yarn dev
 
 Now you can edit `/assets/css/` files, which will be compiled to `/assets/built/` automatically.
 
-The `zip` Gulp task packages the theme files into `dist/headline.zip`, which you can then upload to your site.
+The `zip` Gulp task packages the theme files into `dist/focalpoint.zip`, which you can then upload to your site.
 
 ```bash
 yarn zip

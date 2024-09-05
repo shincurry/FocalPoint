@@ -1,6 +1,6 @@
 {
-    "name": "headline",
-    "description": "A Ghost theme",
+    "name": "focalpoint",
+    "description": "A Ghost theme based on Headline",
     "version": "1.0.0",
     "private": true,
     "engines": {

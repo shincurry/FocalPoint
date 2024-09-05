@@ -3315,6 +3315,28 @@ __metadata:
   languageName: node
   linkType: hard
 
+"focalpoint@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "focalpoint@workspace:."
+  dependencies:
+    "@tryghost/shared-theme-assets": "npm:2.4.5"
+    autoprefixer: "npm:10.4.20"
+    beeper: "npm:2.1.0"
+    cssnano: "npm:7.0.6"
+    gscan: "npm:4.43.4"
+    gulp: "npm:5.0.0"
+    gulp-concat: "npm:2.6.1"
+    gulp-livereload: "npm:4.0.2"
+    gulp-postcss: "npm:10.0.0"
+    gulp-uglify: "npm:3.0.2"
+    gulp-zip: "npm:5.1.0"
+    ordered-read-streams: "npm:2.0.0"
+    postcss: "npm:8.4.45"
+    postcss-easy-import: "npm:4.0.0"
+    pump: "npm:3.0.0"
+  languageName: unknown
+  linkType: soft
+
 "for-in@npm:^1.0.1":
   version: 1.0.2
   resolution: "for-in@npm:1.0.2"
@@ -3968,28 +3990,6 @@ __metadata:
   checksum: 10c0/3769d434703b8ac66b209a4cca0737519925bbdb61dd887f93a16372b14694c63ff4e797686d87c90f08168e81082248b9b028bad60d4da9e0d1148766f56eb9
   languageName: node
   linkType: hard
-
-"headline@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "headline@workspace:."
-  dependencies:
-    "@tryghost/shared-theme-assets": "npm:2.4.5"
-    autoprefixer: "npm:10.4.20"
-    beeper: "npm:2.1.0"
-    cssnano: "npm:7.0.6"
-    gscan: "npm:4.43.4"
-    gulp: "npm:5.0.0"
-    gulp-concat: "npm:2.6.1"
-    gulp-livereload: "npm:4.0.2"
-    gulp-postcss: "npm:10.0.0"
-    gulp-uglify: "npm:3.0.2"
-    gulp-zip: "npm:5.1.0"
-    ordered-read-streams: "npm:2.0.0"
-    postcss: "npm:8.4.45"
-    postcss-easy-import: "npm:4.0.0"
-    pump: "npm:3.0.0"
-  languageName: unknown
-  linkType: soft
 
 "homedir-polyfill@npm:^1.0.1":
   version: 1.0.3
