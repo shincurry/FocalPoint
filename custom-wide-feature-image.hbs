@@ -12,8 +12,10 @@
 
                 {{> "post-meta"}}
 
-                {{#if custom_excerpt}}
-                    <p class="gh-article-excerpt">{{custom_excerpt}}</p>
+                {{#if @custom.show_article_custom_excerpt}}
+                    {{#if custom_excerpt}}
+                        <p class="gh-article-excerpt">{{custom_excerpt}}</p>
+                    {{/if}}
                 {{/if}}
 
                 {{> "feature-image"}}
