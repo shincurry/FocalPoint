@@ -674,14 +674,10 @@ body:not(.home-template) .gh-topic-grid .gh-card {
 
 .gh-foot-menu {
     width: 100%;
-    padding-bottom: 32px;
     text-align: center;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
-}
-
-.gh-subscribe ~ .gh-foot-menu {
     padding: 16px 0;
     border-top: 1px solid rgba(255, 255, 255, 0.15);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
 }
 
 .gh-foot-menu .nav {
