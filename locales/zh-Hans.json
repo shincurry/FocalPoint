@@ -16,5 +16,12 @@
     "Older Posts": "较旧的文章",
     "Page {page} of {pages}": "第 {page} 页，共 {pages} 页",
     "1 min": "1 分钟",
-    "% min": "% 分钟"
+    "% min": "% 分钟",
+    "This page": "页面",
+    "This post": "文章",
+    "{thisPostOrPage} is for paying subscribers only": "{thisPostOrPage}仅供付费订阅者阅读",
+    "{thisPostOrPage} is for subscribers only": "{thisPostOrPage}仅供订阅用户阅读",
+    "{thisPostOrPage} is for subscribers on the following tiers only:": "{thisPostOrPage}仅供以下订阅等级阅读：",
+    "Upgrade your account": "升级您的账户",
+    "Already have an account?": "已经有账户了？"
 }
